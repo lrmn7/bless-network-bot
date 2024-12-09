@@ -1,0 +1,10 @@
+[
+    {
+        "token": "TOKEN 1",
+        "proxy": "http://fhllxpxe:mg3v7v90nkqg@167.160.180.203:6754"
+    },
+    {
+        "token": "TOKEN 2",
+        "proxy": null
+    }
+]
